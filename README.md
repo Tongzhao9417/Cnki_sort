@@ -24,13 +24,13 @@ python cnki_sort.py
 ```
 
 #效果展示
-![-w1254](media/15848647200619/15849305741855.jpg)
+
+![image](https://github.com/Tongzhao9417/Cnki_sort/blob/master/images/15849305741855.jpg)
+
+![image](https://github.com/Tongzhao9417/Cnki_sort/blob/master/images/15849306579994.jpg)
 
 
-![-w1381](media/15848647200619/15849306579994.jpg)
-
-
-![-w1126](media/15848647200619/15849308944383.jpg)
+![image](https://github.com/Tongzhao9417/Cnki_sort/blob/master/images/15849308944383.jpg)
 
 #注意事项
 * 只能对PDF文献进行处理，暂时不支持caj格式
@@ -42,7 +42,7 @@ python cnki_sort.py
 
 * csv部分，由于采用了**追加写入**的方式，故每次整理会出现表头持续的情况。但如果不再次写入表头，会使得新数据格式混乱的情况。望有大神可以指点迷津。
 
-![-w1116](media/15848647200619/15849311784393.jpg)
+![image](https://github.com/Tongzhao9417/Cnki_sort/blob/master/images/15849311784393.jpg)
 （Bug展示）
 
 
